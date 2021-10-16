@@ -1,0 +1,23 @@
+[20:42:30] [main/INFO]: Setting user: Player51
+[20:42:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:42:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TheFiery_ Stealth+
+[20:42:43] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Stealthplmod/ in C:\Users\alexa\Desktop\mod1.7\bin
+[20:42:44] [Sound Library Loader/INFO]: Sound engine started
+[20:42:46] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:42:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:42:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TheFiery_ Stealth+
+[20:42:47] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Stealthplmod/ in C:\Users\alexa\Desktop\mod1.7\bin
+[20:42:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:42:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:42:48] [Sound Library Loader/INFO]: Sound engine started
+[20:42:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:42:54] [Server thread/INFO]: Generating keypair
+[20:42:55] [Server thread/INFO]: Preparing start region for level 0
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 91%
+[20:42:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:42:56] [Server thread/INFO]: Player51[local:E:9cd55bb1] logged in with entity id 287 at (234.53541586294614, 79.0, 241.56837321038705)
+[20:42:56] [Server thread/INFO]: Player51 joined the game
+[20:43:03] [Server thread/INFO]: Saving and pausing game...
+[20:43:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:43:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:43:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
