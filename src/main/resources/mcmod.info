@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stealthplmod",
+  "name": "TheFiery_ Stealth+",
+  "description": ".",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheFiery_"],
+  "credits": "Stealth",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
